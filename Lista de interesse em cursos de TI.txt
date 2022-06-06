@@ -1,9 +1,10 @@
 Lista de cursos que desejo estudar para aprender a codar
 
 - Bootcamp DIO (Santander)
-Treinamento imersivo de 80 horas (básico) para aprender a desenvolver APPs Android com Kotlin
+  Treinamento imersivo de 80 horas (básico) para aprender a desenvolver APPs Android com Kotlin
 
 - Java POO
+  Curso completo de Programação Orientada a Objetos (POO) com a linguagem Java. Aborda os principais conceitos como Classes, Objetos, instanciamento, abstração,  encapsulamento, herança, polimorfismo e muito mais.
 
 - MySQL
 

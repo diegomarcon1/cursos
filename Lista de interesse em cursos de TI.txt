@@ -4,9 +4,10 @@ Lista de cursos que desejo estudar para aprender a codar
   Treinamento imersivo de 80 horas (básico) para aprender a desenvolver APPs Android com Kotlin
 
 - Java POO
-  Curso completo de Programação Orientada a Objetos (POO) com a linguagem Java
+  Curso completo de Programação Orientada a Objetos (POO) com a linguagem Java. Aborda os principais conceitos como Classes, Objetos, instanciamento, abstração,  encapsulamento, herança, polimorfismo e muito mais.
 
 - MySQL
+  Banco de Dados é um componente que reúne informações de maneira organizada, consistente, protegida e acessível em tempo hábil por pessoas especializadas. É fundamental para a área de tecnologia o conhecimento dessa ferramenta tão importante, pois ela é usado por todo tipo de empresa com objetivo de organizar e trabalhar suas informações.
 
 - Git e GitHub - Curso em Video
 

@@ -1,0 +1,12 @@
+Lista de cursos que desejo estudar para aprender a codar
+
+- Bootcamp DIO (Santander)
+Treinamento imersivo de 80 horas (básico) para aprender a desenvolver APPs Android com Kotlin
+
+- Java POO
+
+- MySQL
+
+- Git e GitHub - Curso em Video
+
+- Python
